@@ -51,5 +51,7 @@ print("Predicted of C02",predictedCO2)
 ## Output:
 ![output](/Capture.PNG)
 
+
+
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
